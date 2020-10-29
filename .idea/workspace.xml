@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="949f95ec-610a-4229-bee6-ac0d69063873" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1jVFwfA6vB2QzNDNcYqWAq0hdai" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker-compose.yml" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\planApi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Golang-PostgreSQL">
+    <configuration name="App Engine" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="planApi" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="planApi" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Golang-PostgreSQL" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Golang-PostgreSQL" />
+      <item itemvalue="Go Build.App Engine" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="251" y="205" width="471" height="650" key="#Build_Tags_&amp;_Vendoring" timestamp="1603883753532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="251" y="205" width="471" height="650" key="#Build_Tags_&amp;_Vendoring/0.0.1920.1040@0.0.1920.1040" timestamp="1603883753532" />
+    <state x="381" y="149" key="#Docker" timestamp="1603971119201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="381" y="149" key="#Docker/0.0.1920.1040@0.0.1920.1040" timestamp="1603971119201" />
+    <state x="683" y="359" key="#SQL_Dialects" timestamp="1603970811133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="359" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1603970811133" />
+    <state x="243" y="134" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603971287089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="243" y="134" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603971287089" />
+    <state x="1192" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603927437308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1192" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603927437308" />
+    <state x="627" y="359" key="DockerComposeFileDialog" timestamp="1603971130295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="359" key="DockerComposeFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603971130295" />
+    <state x="569" y="246" key="FileChooserDialogImpl" timestamp="1603971128645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603971128645" />
+    <state width="914" height="272" key="GridCell.Tab.0.bottom" timestamp="1603929649635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603929649635" />
+    <state width="914" height="272" key="GridCell.Tab.0.center" timestamp="1603929649635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603929649635" />
+    <state width="914" height="272" key="GridCell.Tab.0.left" timestamp="1603929649635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603929649635" />
+    <state width="914" height="272" key="GridCell.Tab.0.right" timestamp="1603929649635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603929649635" />
+    <state width="196" height="539" key="HiddenNamespacesPopup" timestamp="1603970909330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="539" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1603970909330" />
+    <state x="922" y="168" key="SettingsEditor" timestamp="1603882865251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603882865251" />
+    <state x="1100" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603886375507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1100" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603886375507" />
+    <state x="1159" y="428" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603883461402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1159" y="428" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603883461402" />
+  </component>
+</project>

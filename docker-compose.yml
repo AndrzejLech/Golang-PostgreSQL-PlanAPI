@@ -1,0 +1,20 @@
+version: '3'
+services:
+  db:
+    container_name: postgres
+    image: postgres:13
+    environment:
+      POSTGRES_PASSWORD: gopher
+    ports:
+      - "5432:5432"
+  goapi:
+    container_name: golang
+    build: .
+    volumes:
+      - .:/go/src/GoAPI/
+    working_dir: /go/src/GoAPI
+    command: go run main.go
+    ports:
+      - "8080:8080"
+    links:
+      - db
